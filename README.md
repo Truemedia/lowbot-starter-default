@@ -1,2 +1,2 @@
-# lowbot-starter-default
-The default lowbot starter
+# Lowbot Starter Default
+The default Lowbot starter
