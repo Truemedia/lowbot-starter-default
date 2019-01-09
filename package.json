@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/Truemedia/lowbot-starter-default/issues"
   },
-  "homepage": "https://github.com/Truemedia/lowbot-starter-default#readme"
+  "homepage": "https://github.com/Truemedia/lowbot-starter-default#readme",
+  "dependencies": {
+    "basic-skillset": "^0.1.7",
+    "eduir": "^1.0.1",
+    "intent-desire": "^1.0.0",
+    "lowbot-terminal": "^0.1.1"
+  }
 }
